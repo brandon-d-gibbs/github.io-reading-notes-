@@ -1,23 +1,14 @@
 # Class Reading 02
 
-
-///// HTML & CSS Chapters: 2 & 10
-    Text
-    Introducing CSS
-
-//// JS Chapters: 2 & 4
-    Basic JS Instructions
-    Decisions and Loops
-
 ### HTML Text
 They say that content is king. Well, if that's the case, then text is the OG High King of the internet. Yes, our internet has grown and changed, and a gret deal of the content consumed is via pictures, video, and audio, but we still have to have text. These other content forms still need things like titles, descriptions, and maybe even a tanscript of those videos. This is all acived throgh, of course, text.
 
-The 'H' tags take care of our headings. There are 6 of them ranging from <h1> to <h6>. These are not self-closing tags, and will require that you close them. For example:
+The 'H' tags take care of our headings. There are 6 of them ranging from \<h1\> to \<h6\>. These are not self-closing tags, and will require that you close them. For example:
 
 ```html
-\<h1\>Your heading will go here\</h1\>
+<h1>Your heading will go here</h1>
 ```
-That \</h1\> is what will allow you to continue on with additional text without everyting being larger. Your 'H' tags are also there to tell web-crawlers about the content that folows it, such as the topic of content and the level of importance that it has on the page.
+That `\</h1\>` is what will allow you to continue on with additional text without everyting being larger. Your 'H' tags are also there to tell web-crawlers about the content that folows it, such as the topic of content and the level of importance that it has on the page.
 
 ### CSS
 
@@ -33,7 +24,7 @@ div {
 }
 
 ```
-The 'div' tells the CSS to select any DIV element in your HTML. The next lines go on to set rules on how the background color, the text color, and centers the text within that DIV. 
+The `div` tells the CSS to select any DIV element in your HTML. The next lines go on to set rules on how the background color, the text color, and centers the text within that DIV. 
 
 
 ## JavaScript
