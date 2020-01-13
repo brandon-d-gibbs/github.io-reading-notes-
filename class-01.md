@@ -62,7 +62,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         ```
 
 
-    5. In what tag would you place your meta data?
+5. In what tag would you place your meta data?
 
         a. \<footer\>
 
@@ -73,7 +73,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         d. \<meta\>
 
 
-    6. What tag might be good to use if you wanted to place content on a page you want read, related to a singuar topic? 
+6. What tag might be good to use if you wanted to place content on a page you want read, related to a singuar topic? 
 
         a. \<article\>
 
@@ -84,7 +84,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         d. \<header>
 
 
-    7. A "bare-bones" mockup of a website that you intend to build is called a ______?
+7. A "bare-bones" mockup of a website that you intend to build is called a ______?
 
         a. blueprint
 
@@ -95,7 +95,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         d. bareframe
 
 
-    8. A set of instructions to the computer to have it carry out a task is called a ______?
+8. A set of instructions to the computer to have it carry out a task is called a ______?
 
         a. code
 
@@ -106,7 +106,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         d. rule
 
 
-    9. Javascript is often used to add ______ to a website.
+9. Javascript is often used to add ______ to a website.
 
         a. interactivity
 
@@ -117,7 +117,7 @@ Below is a short quiz on the materials covered in the readings assigned for Read
         d. readability 
 
 
-    10. Computers build the idea of the world around us with ______?
+10. Computers build the idea of the world around us with ______?
 
         a. maps
 
