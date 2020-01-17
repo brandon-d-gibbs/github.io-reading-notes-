@@ -8,8 +8,8 @@ CSS layouts are used to, well, layout your content. CSS being respoinsible for t
 
 
 Here is a list of types of CSS Layouts and and a handy little CSS framework.
-Fixed Width
-Fluid (or liquid)
-Grid Layout
-Flexbox
-BootStrap (framework that can be set to use most of these approaches)
+- Fixed Width
+- Fluid (or liquid)
+- Grid Layout
+- Flexbox
+- [BootStrap](https://getbootstrap.com/) (framework that can be set to use most of these approaches)
